@@ -63,30 +63,30 @@
 		</section>
     	</div>
 				
-					<div class="footer-copyright">
-						<div class="container">
-							<div class="row">
-								<div class="col-md-1">
-									<a href="/" class="logo">
-										<img alt="Porto Website Template" class="img-responsive" src="img/logo.png">
-									</a>
-								</div>
-								<div class="col-md-7">
-									<p>© Copyright 2015. All Rights Reserved.</p>
-								</div>
-								<div class="col-md-4">
-									<nav id="sub-menu">
-										<ul>
-											<li><a href="terms">Terms & Services</a></li>
-											<li><a href="faq">FAQ's</a></li>
-											<li><a href="contact">Contact</a></li>
-										</ul>
-									</nav>
-								</div>
-							</div>
-						</div>
-					</div>
-				</footer>
+        <div class="footer-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-1">
+                        <a href="/" class="logo">
+                            <img alt="Porto Website Template" class="img-responsive" src="img/logo.png">
+                        </a>
+                    </div>
+                    <div class="col-md-7">
+                        <p>© Copyright 2015. All Rights Reserved.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <nav id="sub-menu">
+                            <ul>
+                                <li><a href="terms">Terms & Services</a></li>
+                                <li><a href="faq">FAQ's</a></li>
+                                <li><a href="contact">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 				
 <!-- Vendor -->
 <script src="vendor/jquery/jquery.js"></script>

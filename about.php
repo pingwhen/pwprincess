@@ -160,6 +160,8 @@
 
         <!-- Footer -->
 		<?php include("footer.php"); ?>
+		
+		</div> <!-- Close the main div -->
 
 	</body>
 </html>

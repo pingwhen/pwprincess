@@ -1,4 +1,4 @@
-ABC<header id="header">
+<header id="header">
 				<div class="container">
 					<div class="logo">
 						<a href="/">

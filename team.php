@@ -50,8 +50,6 @@
 	</head>
 	<body>
 
-		<div class="body">
-			<div class="body">
 			
             <!-- Header -->
 	        <?php include("header.php"); ?>
@@ -328,7 +326,6 @@
 
         <!-- Footer -->
 		<?php include("footer.php"); ?>
-		</div>
 
 	</body>
 </html>

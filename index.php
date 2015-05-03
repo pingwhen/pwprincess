@@ -50,8 +50,6 @@
 			<script src="vendor/respond/respond.js"></script>
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
-		
-		<script src="vendor/jquery/jquery.js"></script>
 
 	</head>
 	<body>
@@ -272,11 +270,12 @@
 		</section>
 
 		<!-- Footer -->
-		<div id="footer"></div>
+		<?php include("footer.php"); ?>
 			
 		</div> <!-- TODO - can get rid of this close tag? -->
 		
 		<!-- Vendor -->
+		<script src="vendor/jquery/jquery.js"></script>
 		<script src="vendor/jquery.appear/jquery.appear.js"></script>
 		<script src="vendor/jquery.easing/jquery.easing.js"></script>
 		<script src="vendor/jquery-cookie/jquery-cookie.js"></script>

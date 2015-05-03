@@ -1,7 +1,7 @@
-<header id="header">
+ABC<header id="header">
 				<div class="container">
 					<div class="logo">
-						<a href="index.html">
+						<a href="/">
 							<img alt="Porto" width="140" height="70" src="img/logo.png">
 						</a>
 					</div>
@@ -19,23 +19,23 @@
 						<nav class="nav-main mega-menu">
 							<ul class="nav nav-pills nav-main" id="mainMenu">
 								<li class="dropdown active">
-									<a class="dropdown-toggle" href="index.html">
+									<a class="dropdown-toggle" href="/">
 										The App
 										<i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<li><a href="index.html">Features</a></li>
+										<li><a href="/">Features</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
-									<a class="dropdown-toggle" href="#">
+									<a class="dropdown-toggle" href="about">
 										About Us
 										<i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<li><a href="about-us-basic.html">About Us</a></li>
-										<li><a href="page-team.html">Our Team</a></li>
-										<li><a href="about-us.html">Our Values</a></li>
+										<li><a href="about">About Us</a></li>
+										<li><a href="team">Our Team</a></li>
+										<li><a href="values">Our Values</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
@@ -44,8 +44,8 @@
 										<i class="fa fa-angle-down"></i>
 									</a>
 									<ul class="dropdown-menu">
-										<li><a href="index.html">Beta Tester<span class="tip">Exclusive</span></a></li>
-										<li><a href="contact-us.html">Contact Us</a></li>
+										<li><a href="/">Beta Tester<span class="tip">Exclusive</span></a></li>
+										<li><a href="contact">Contact Us</a></li>
 									</ul>
 								</li>
 							</ul>

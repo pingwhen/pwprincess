@@ -51,61 +51,9 @@
 	<body>
 
 		<div class="body">
-			<header id="header">
-				<div class="container">
-					<div class="logo">
-						<a href="index.html">
-							<img alt="Porto" width="140" height="70" src="img/logo.png">
-						</a>
-					</div>
-					<button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
-						<i class="fa fa-bars"></i>
-					</button>
-				</div>
-				<div class="navbar-collapse nav-main-collapse collapse">
-					<div class="container">
-						<ul class="social-icons">
-							<li class="facebook"><a href="https://www.facebook.com/pages/Pingwhen/292317570939511#" target="_blank" title="Facebook">Facebook</a></li>
-							<li class="twitter"><a href="http://www.twitter.com/pingwhenapp" target="_blank" title="Twitter">Twitter</a></li>
-							<li class="linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin">Linkedin</a></li>
-						</ul>
-						<nav class="nav-main mega-menu">
-							<ul class="nav nav-pills nav-main" id="mainMenu">
-								<li class="dropdown active">
-									<a class="dropdown-toggle" href="#">
-										The App
-										<i class="fa fa-angle-down"></i>
-									</a>
-									<ul class="dropdown-menu">
-										<li><a href="index.html">Features</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a class="dropdown-toggle" href="#">
-										About Us
-										<i class="fa fa-angle-down"></i>
-									</a>
-									<ul class="dropdown-menu">
-										<li><a href="about-us-basic.html">About Us</a></li>
-										<li><a href="page-team.html">Our Team</a></li>
-										<li><a href="about-us.html">Our Values</a></li>
-									</ul>
-								</li>
-								<li class="dropdown">
-									<a class="dropdown-toggle" href="#">
-										Join Us
-										<i class="fa fa-angle-down"></i>
-									</a>
-									<ul class="dropdown-menu">
-										<li><a href="contact-us.html">Beta Tester<span class="tip">Exclusive</span></a></li>
-										<li><a href="contact-us.html">pingWHEN Ninja</a></li>
-									</ul>
-								</li>
-							</ul>
-						</nav>
-					</div>
-				</div>
-			</header>
+
+	        <!-- Header -->
+	        <?php include("header.php"); ?>
 
 			<div role="main" class="main">
 
@@ -213,93 +161,8 @@
 				</div>
 			</div>
 
-			<!-- Footer -->
-			<footer id="footer">
-				<div class="container">
-					<div class="row">
-						<div class="footer-ribbon">
-							<span>Join the Movement</span>
-						</div>
-						<div class="col-md-5">
-							<div class="newsletter">
-								<h4>Exclusive Beta Access</h4>
-								<p>Sign up to be an exclusive beta tester and to get notified when we launch. </p>
-
-		<!-- New Code for list -->	
-						<form name="sentMessage" id="contactForm" novalidate>
-				            <div class="row">
-				            <div class="col-md-1"></div>
-				            <div class="col-md-12">
-				            	<div class="form-group">
-				                    <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
-				                     <p class="help-block text-danger"></p>
-				                </div>
-			                    <div class="form-group">
-			                        <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
-			                        <p class="help-block text-danger"></p>
-			                    </div>
-			                </div>
-			                <div class="clearfix"></div>
-			                    <div class="col-lg-1 text-center">
-			                        <div id="success"></div>
-			                             <button type="submit" class="btn btn-xl">Sign Me Up!</button>
-			                    </div>
-			                </div>
-			                </div>	
-			                </form>
-			            </div>
-								<div class="alert alert-success hidden" id="newsletterSuccess">
-									<strong>Success!</strong> You've been added to our email list.
-								</div>
-
-		
-						<div class="col-md-5">
-							<div class="contact-details">
-								<h4>Contact Us</h4>
-								<p>For questions on the app or press inquiries, please contact us below. </p>
-								<ul class="contact">
-									<li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> Boulder, CO, United States</p></li>
-									<li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:info@pingwhenapp.com">info@pingwhenapp.com</a></p></li>
-								</ul>
-							</div>
-						</div>
-						<div class="col-md-2">
-							<h4>Follow Us</h4>
-							<div class="social-icons">
-								<ul class="social-icons">
-									<li class="facebook"><a href="https://www.facebook.com/pages/Pingwhen/292317570939511#" target="_blank" data-placement="bottom" data-tooltip title="Facebook">Facebook</a></li>
-									<li class="twitter"><a href="http://www.twitter.com/pingwhenapp" target="_blank" data-placement="bottom" data-tooltip title="Twitter">Twitter</a></li>
-									<li class="linkedin"><a href="http://www.linkedin.com/" target="_blank" data-placement="bottom" data-tooltip title="Linkedin">Linkedin</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-		</section>
-				
-					<div class="footer-copyright">
-						<div class="container">
-							<div class="row">
-								<div class="col-md-1">
-									<a href="index.html" class="logo">
-										<img alt="Porto Website Template" class="img-responsive" src="img/logo.png">
-									</a>
-								</div>
-								<div class="col-md-7">
-									<p>© Copyright 2015. All Rights Reserved.</p>
-								</div>
-								<div class="col-md-4">
-									<nav id="sub-menu">
-										<ul>
-											<li><a href="page-faq.html">Terms & Services</a></li>
-											<li><a href="page-faq.html">FAQ's</a></li>
-											<li><a href="contact-us.html">Contact</a></li>
-										</ul>
-									</nav>
-								</div>
-							</div>
-						</div>
-					</footer>
+        <!-- Footer -->
+		<?php include("footer.php"); ?>
 
 		<!-- Vendor -->
 		<script src="vendor/jquery/jquery.js"></script>

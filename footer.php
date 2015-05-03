@@ -1,3 +1,4 @@
+ABC
 <footer id="footer">
 				<div class="container">
 					<div class="row">
@@ -67,7 +68,7 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-1">
-									<a href="index.html" class="logo">
+									<a href="/" class="logo">
 										<img alt="Porto Website Template" class="img-responsive" src="img/logo.png">
 									</a>
 								</div>
@@ -77,9 +78,9 @@
 								<div class="col-md-4">
 									<nav id="sub-menu">
 										<ul>
-											<li><a href="page-faq.html">Terms & Services</a></li>
-											<li><a href="page-faq.html">FAQ's</a></li>
-											<li><a href="contact-us.html">Contact</a></li>
+											<li><a href="terms">Terms & Services</a></li>
+											<li><a href="faq">FAQ's</a></li>
+											<li><a href="contact">Contact</a></li>
 										</ul>
 									</nav>
 								</div>

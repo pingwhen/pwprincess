@@ -93,7 +93,7 @@
 						<div class="col-md-12">
 
 							<div class="toogle" data-plugin-toggle>
-								<section class="toggle active">
+								<section class="toggle">
 									<label>Why did you start pingWHEN</label>
 									<p>pingWHEN comes from my own personal experiences.</p>
 								</section>

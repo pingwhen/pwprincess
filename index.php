@@ -52,13 +52,6 @@
 		<![endif]-->
 		
 		<script src="vendor/jquery/jquery.js"></script>
-		<!-- Load the Header and Footer -->
-        <script> 
-        $(function(){
-          $("#header").load("header.html");
-          $("#footer").load("footer.html"); 
-        });
-        </script>
 
 	</head>
 	<body>
@@ -66,7 +59,7 @@
 		<div class="body">
 			
 	        <!-- Header -->
-	        <div id="header"></div>
+	        <?php include("header.php"); ?>
 
 			<div role="main" class="main">
 				<div class="slider-container">

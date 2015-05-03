@@ -93,7 +93,7 @@
 						<div class="col-md-12">
 
 							<div class="toggle" data-plugin-toggle>
-								<section class="toggle active">
+								<section class="toggle collapse in">
 									<label>Why did you start pingWHEN</label>
 									<p>pingWHEN comes from my own personal experiences.</p>
 								</section>
@@ -151,7 +151,7 @@
 		<?php include("footer.php"); ?>
 		
 		<script type="text/javascript">
-                $('.toggle').collapse();
+                $('.collapse').collapse("hide");
         </script>
 
 	</body>

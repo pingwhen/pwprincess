@@ -98,7 +98,7 @@
 									<p>pingWHEN comes from my own personal experiences.</p>
 								</section>
 
-								<section class="toggle">
+								<section class="toggle collapse">
 									<label>When will you be launching?</label>
 									<p>August 2015.</p>
 								</section>

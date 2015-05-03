@@ -24,10 +24,9 @@
                                 </div>
                             </div>
                             <div class="clearfix"></div>
-                                <div class="col-lg-1 text-center">
-                                    <div id="success"></div>
-                                         <button type="submit" class="btn btn-xl">Sign Me Up!</button>
-                                </div>
+                            <div class="col-lg-1 text-center">
+                                <div id="success"></div>
+                                     <button type="submit" class="btn btn-xl">Sign Me Up!</button>
                             </div>
                         </div>	
                     </form>

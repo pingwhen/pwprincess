@@ -48,9 +48,7 @@
 		<![endif]-->
 
 	</head>
-<body>
-
-				<div class="body">
+        <body>
 			
             <!-- Header -->
 	        <?php include("header.php"); ?>

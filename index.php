@@ -53,8 +53,6 @@
 
 	</head>
 	<body>
-
-		<div class="body">
 			
 	        <!-- Header -->
 	        <?php include("header.php"); ?>
@@ -271,8 +269,6 @@
 
 		<!-- Footer -->
 		<?php include("footer.php"); ?>
-			
-		</div> <!-- TODO - can get rid of this close tag? -->
 		
 		<!-- Specific Page Vendor and Views -->
 		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>

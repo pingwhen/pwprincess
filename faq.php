@@ -151,7 +151,7 @@
 		<?php include("footer.php"); ?>
 		
 		<script type="text/javascript">
-                $('.toggle').collapse("hide");
+                $('.toggle').collapse();
         </script>
 
 	</body>

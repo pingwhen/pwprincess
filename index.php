@@ -197,6 +197,18 @@
 					</div>
 				</div>
 					</section>
+					
+	<script>
+		$(function() {
+			$(".video-link").jqueryVideoLightning({
+				autoplay: 1,
+				backdrop_color: "#ddd",
+				backdrop_opacity: 0.6,
+				glow: 20,
+				glow_color: "#000"
+			});
+		});
+	</script>
 
 					<section class="video" data-video-path="video/wkjFpgTwSPnxksbAxnkA_IMG_5192.jpg" data-plugin-video-background data-plugin-options='{"posterType": "jpg", "position": "50% 50%"}'>
 					<div class="container">

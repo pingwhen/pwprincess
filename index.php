@@ -70,7 +70,7 @@
 										 data-start="500"
 										 data-easing="easeOutExpo">mobile personal safety app for</div>
 
-									<div class="tp-caption main-label sft stb"
+<!--									<div class="tp-caption main-label sft stb"
 										 data-x="left" data-hoffset="0"
 										 data-y="300"
 										 data-speed="300"
@@ -82,6 +82,24 @@
 													<span>or if you do not</span>
 												</span>
 											</span>
+									</div>-->
+									
+									<div class="tp-caption main-label sft stb"
+										 data-x="left" data-hoffset="0"
+										 data-y="300"
+										 data-speed="300"
+										 data-start="1500"
+										 data-easing="easeOutExpo">
+											when you arrive
+									</div>
+									
+									<div class="tp-caption main-label sft stb"
+										 data-x="left" data-hoffset="0"
+										 data-y="300"
+										 data-speed="300"
+										 data-start="1500"
+										 data-easing="easeOutExpo">
+											or if you don't
 									</div>
 
 									<div class="tp-caption bottom-label sft stb"

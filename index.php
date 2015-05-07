@@ -50,6 +50,10 @@
 			<script src="vendor/respond/respond.js"></script>
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
+		
+        <!-- Video stuff -->
+        <script src="videoEmbed/jquery-video-lightning.js"></script>
+        <link href="videoEmbed/jquery-video-lightning.css" rel="stylesheet" type="text/css">
 
 	</head>
 	<body>
@@ -182,7 +186,10 @@
 					<div class="container">
 						<div class="row">
 						<div class="col-md-7">
-							<img class="img-responsive" width="1000" height="2000" src="img/video-1.png" alt="style switcher" data-appear-animation="fadeInRight">
+							<span class="video-link" data-video-id="y-gO_6UPwcXe0">
+							    <img class="img-responsive" width="1000" height="2000" src="img/video-1.png" alt="style switcher" data-appear-animation="fadeInRight">
+							    </img>
+							</span>
 						</div>
 							<div class="col-md-5">
 							<h2 class="push-top">Curious how it works?  Just Watch!</h2>

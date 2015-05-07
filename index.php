@@ -80,35 +80,16 @@
 										 data-start="1500"
 										 data-easing="easeOutExpo">
 <section class="rw-wrapper">
-					<h2 class="rw-sentence">
-						<div class="rw-words rw-words-1">
-							<span class="intro-heading">if you arrive</span>
-							<span class="intro-heading">or if you don't</span>
-							<span class="intro-heading">if you arrive</span>
-							<span class="intro-heading">or if you don't</span>
-						</div>
-					</h2>
-				</section>
+    <span class="rw-sentence">
+        <div class="rw-words rw-words-1">
+            <span>if you arrive</span>
+            <span>or if you don't</span>
+            <span class="intro-heading">if you arrive</span>
+            <span class="intro-heading">or if you don't</span>
+        </div>
+    </span>
+</section>
 									</div>
-									
-<!--									<div class="tp-caption main-label sft stb"
-										 data-x="left" data-hoffset="0"
-										 data-y="300"
-										 data-speed="300"
-										 data-start="1500"
-										 data-end="3500"
-										 data-easing="easeOutExpo">
-											when you arrive
-									</div>
-									
-									<div class="tp-caption main-label sft stb"
-										 data-x="left" data-hoffset="0"
-										 data-y="300"
-										 data-speed="300"
-										 data-start="3500"
-										 data-easing="easeOutExpo">
-											or if you don't
-									</div>-->
 
 									<div class="tp-caption bottom-label sft stb"
 										 data-x="left" data-hoffset="0"

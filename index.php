@@ -79,11 +79,16 @@
 										 data-speed="300"
 										 data-start="1500"
 										 data-easing="easeOutExpo">
-			<span class="word-rotate-items">
-				<span>abc</span>
-				<span>def</span>
-				<span>ghi</span>
-			</span>
+<section class="rw-wrapper">
+					<h2 class="rw-sentence">
+						<div class="rw-words rw-words-1">
+							<span class="intro-heading">if you arrive</span>
+							<span class="intro-heading">or if you don't</span>
+							<span class="intro-heading">if you arrive</span>
+							<span class="intro-heading">or if you don't</span>
+						</div>
+					</h2>
+				</section>
 									</div>
 									
 <!--									<div class="tp-caption main-label sft stb"

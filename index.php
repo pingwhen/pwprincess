@@ -73,10 +73,7 @@
 										 data-start="500"
 										 data-easing="easeOutExpo">mobile personal safety app for</div>
 
-									<div class="tp-caption main-label sft stb"
-										 data-x="left" data-hoffset="0"
-										 data-y="300"
-										 data-easing="easeOutExpo">
+									<div>
 <section class="rw-wrapper">
     <span class="rw-sentence">
         <div class="rw-words rw-words-1">

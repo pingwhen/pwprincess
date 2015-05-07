@@ -50,6 +50,9 @@
 			<script src="vendor/respond/respond.js"></script>
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
+		
+        <!-- Rotating Text CSS -->
+		<link rel="stylesheet" href="css/text-animation.css">
 
 	</head>
 	<body>
@@ -70,21 +73,21 @@
 										 data-start="500"
 										 data-easing="easeOutExpo">mobile personal safety app for</div>
 
-<!--									<div class="tp-caption main-label sft stb"
+									<div class="tp-caption main-label sft stb"
 										 data-x="left" data-hoffset="0"
 										 data-y="300"
 										 data-speed="300"
 										 data-start="1500"
 										 data-easing="easeOutExpo">
-											<span class="word-rotate" data-plugin-options='{"delay": 3500, "animDelay": 400}'>
-												<span class="word-rotate-items">
-													<span>when you arrive</span>
-													<span>or if you do not</span>
-												</span>
-											</span>
-									</div>-->
+			<span class="word-rotate-items">
+				<span>abc</span>
+				<span>def</span>
+				<span>ghi</span>
+			</span>
+		</span>
+									</div>
 									
-									<div class="tp-caption main-label sft stb"
+<!--									<div class="tp-caption main-label sft stb"
 										 data-x="left" data-hoffset="0"
 										 data-y="300"
 										 data-speed="300"
@@ -101,7 +104,7 @@
 										 data-start="3500"
 										 data-easing="easeOutExpo">
 											or if you don't
-									</div>
+									</div>-->
 
 									<div class="tp-caption bottom-label sft stb"
 										 data-x="left" data-hoffset="0"

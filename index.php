@@ -84,7 +84,6 @@
 				<span>def</span>
 				<span>ghi</span>
 			</span>
-		</span>
 									</div>
 									
 <!--									<div class="tp-caption main-label sft stb"

@@ -107,6 +107,10 @@
 <script src="vendor/magnific-popup/jquery.magnific-popup.js"></script>
 <script src="vendor/vide/vide.js"></script>
 
+<!-- Video stuff -->
+<script src="videoEmbed/jquery-video-lightning.js"></script>
+<link href="videoEmbed/jquery-video-lightning.css" rel="stylesheet" type="text/css">
+
 <!-- Theme Base, Components and Settings -->
 <script src="js/theme.js"></script>
 

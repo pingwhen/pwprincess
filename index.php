@@ -50,10 +50,6 @@
 			<script src="vendor/respond/respond.js"></script>
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
-		
-        <!-- Video stuff -->
-        <script src="videoEmbed/jquery-video-lightning.js"></script>
-        <link href="videoEmbed/jquery-video-lightning.css" rel="stylesheet" type="text/css">
 
 	</head>
 	<body>

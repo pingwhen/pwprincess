@@ -76,8 +76,6 @@
 									<div class="tp-caption main-label sft stb"
 										 data-x="left" data-hoffset="0"
 										 data-y="300"
-										 data-speed="300"
-										 data-start="1500"
 										 data-easing="easeOutExpo">
 <section class="rw-wrapper">
     <span class="rw-sentence">

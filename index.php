@@ -89,6 +89,7 @@
 										 data-y="300"
 										 data-speed="300"
 										 data-start="1500"
+										 data-end="3500"
 										 data-easing="easeOutExpo">
 											when you arrive
 									</div>
@@ -97,7 +98,7 @@
 										 data-x="left" data-hoffset="0"
 										 data-y="300"
 										 data-speed="300"
-										 data-start="1500"
+										 data-start="3500"
 										 data-easing="easeOutExpo">
 											or if you don't
 									</div>

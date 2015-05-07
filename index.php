@@ -84,8 +84,6 @@
         <div class="rw-words rw-words-1">
             <span>if you arrive</span>
             <span>or if you don't</span>
-            <span class="intro-heading">if you arrive</span>
-            <span class="intro-heading">or if you don't</span>
         </div>
     </span>
 </section>

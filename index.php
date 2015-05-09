@@ -61,64 +61,26 @@
 	        <?php include("header.php"); ?>
 
 			<div role="main" class="main">
-				<div class="slider-container">
-					<div class="slider" id="revolutionSlider" data-plugin-revolution-slider data-plugin-options='{"startheight": 677}'>
-						<ul>
-							<li data-slotamount="7" data-masterspeed="1000" data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7">
-								<img src="img/slides/front.png" alt="light" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
-								
-                                    <div class="tp-caption main-label sft stb"
-                                         data-x="135"
-                                         data-y="210"
-                                         data-speed="300"
-                                         data-start="1500"
-                                         data-easing="easeOutExpo">mobile personal safety app for</div>
-									 
-									<div class="tp-caption top-label lfl stl"
-										 data-x="left" data-hoffset="0"
-										 data-y="250"
-										 data-speed="300"
-										 data-start="500"
-										 data-easing="easeOutExpo">mobile personal safety app for</div>
-
-									<div class="tp-caption main-label sft stb"
-										 data-x="left" data-hoffset="0"
-										 data-y="300"
-										 data-speed="300"
-										 data-start="1500"
-										 data-easing="easeOutExpo">
-<section class="rw-wrapper">
-    <span class="rw-sentence">
-        <div class="rw-words rw-words-1">
-            <span>if you arrive</span>
-            <span>or if you don't</span>
-        </div>
-    </span>
-</section>
-									</div>
-
-									<div class="tp-caption bottom-label sft stb"
-										 data-x="left" data-hoffset="0"
-										 data-y="350"
-										 data-speed="300"
-										 data-start="1500"
-										 data-easing="easeOutExpo">
-									</div>
-
-									<a class="tp-caption customin btn btn-lg btn-primary main-button" href=""
-										data-x="left" data-hoffset="0"
-										data-y="400"
-										data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-										data-speed="800"
-										data-start="1700"
-										data-easing="Back.easeInOut"
-										data-endspeed="300">
-											Get Access Now!
-									</a>
-							</li>
-						</ul>	
-					</div>
-				</div>
+				
+				
+                <div class="container">
+                    <div class="intro-text">
+                        <div class="intro-lead-in">ping<span class="pink">WHEN</span></div>
+                        <section class="rw-wrapper">
+                            <h2 class="rw-sentence">
+                                <div class="rw-words rw-words-1">
+                                    <span class="intro-heading">if you arrive</span>
+                                    <span class="intro-heading">or if you don't</span>
+                                    <span class="intro-heading">if you arrive</span>
+                                    <span class="intro-heading">or if you don't</span>
+                                </div>
+                            </h2>
+                        </section>
+                        <div class="intro-heading">&nbsp;</div>
+                        <div class="intro-heading">&nbsp;</div>
+                        <div class="wrapper"><a href="#contact" class="page-scroll btn btn-xl">Sign Up Now</a></div>
+                    </div>
+                </div>
 
 
 		<!-- Main Body -->

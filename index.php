@@ -66,6 +66,14 @@
 						<ul>
 							<li data-slotamount="7" data-masterspeed="1000" data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7">
 								<img src="img/slides/front.png" alt="light" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+								
+                                    <div class="tp-caption main-label sft stb"
+                                         data-x="135"
+                                         data-y="210"
+                                         data-speed="300"
+                                         data-start="1500"
+                                         data-easing="easeOutExpo">mobile personal safety app for</div>
+									 
 									<div class="tp-caption top-label lfl stl"
 										 data-x="left" data-hoffset="0"
 										 data-y="250"

@@ -1,3 +1,7 @@
+.header-home-page {
+	background-image: url(../img/slides/front.jpg);
+}
+
 /* TODO - remove CSS references to these from the HTML */
 .rw-sentence{ }
 .rw-sentence span{ }

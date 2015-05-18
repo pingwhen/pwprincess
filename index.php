@@ -53,6 +53,8 @@
 		
         <!-- Rotating Text CSS -->
 		<link rel="stylesheet" href="css/text-animation.css">
+		
+		<link rel="stylesheet" href="css/agency.css">
 
 	</head>
 	<body>
@@ -62,7 +64,7 @@
 
 			<div role="main" class="main">
 				
-				
+				<header  style="background-image:url(img/slides/front.png);">
                 <div class="container">
                     <div class="intro-text">
                         <div class="intro-lead-in">ping<span class="pink">WHEN</span></div>
@@ -81,6 +83,7 @@
                         <div class="wrapper"><a href="#contact" class="page-scroll btn btn-xl">Sign Up Now</a></div>
                     </div>
                 </div>
+            </header>
 
 
 		<!-- Main Body -->

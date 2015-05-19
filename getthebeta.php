@@ -1,0 +1,1 @@
+<?php header( 'Location: https://docs.google.com/a/york.ac.uk/forms/d/1oTEDDFGw_2X_ybkOvXO_W2jdOOmzNYVNTr0tCw-nQwE/viewform' );

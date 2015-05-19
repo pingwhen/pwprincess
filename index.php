@@ -3,15 +3,13 @@
 
 			<div role="main" class="main">
 				
-				<header  style="background-image:url(img/slides/front.png);">
+				<section class="intro-background-style">
                 <div class="container">
                     <div class="intro-text">
                         <div class="intro-lead-in">ping<span class="pink">WHEN</span></div>
                         <section class="rw-wrapper">
                             <h2 class="rw-sentence">
                                 <div class="rw-words rw-words-1">
-                                    <span class="intro-heading">if you arrive</span>
-                                    <span class="intro-heading">or if you don't</span>
                                     <span class="intro-heading">if you arrive</span>
                                     <span class="intro-heading">or if you don't</span>
                                 </div>
@@ -22,7 +20,7 @@
                         <div class="wrapper"><a href="#contact" class="page-scroll btn btn-xl">Sign Up Now</a></div>
                     </div>
                 </div>
-            </header>
+            </section>
 
 
 		<!-- Main Body -->

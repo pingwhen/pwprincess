@@ -47,6 +47,14 @@
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
 
+		<!-- Current Page CSS -->
+		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css" media="screen">
+		<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css" media="screen">
+
+        <!-- Rotating Text CSS -->
+		<link rel="stylesheet" href="css/text-animation.css">		
+		<link rel="stylesheet" href="css/agency.css">
+
 	</head>
 	<body>
 

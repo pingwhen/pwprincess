@@ -40,7 +40,7 @@
 				</div>
 	
 
-				<section class="featured">
+				<section class="featured" id="featured">
 					<div class="container">
 
 						<div class="row">
@@ -59,7 +59,9 @@
 											</div>
 											<div class="feature-box-info">
 												<h4 class="shorter">Automation</h4>
-												<p class="tall">Our technology integrates sophisticated geofencing, so we know the minute you arrive to your destination and we automatically trigger a text.</p>
+												<p class="tall">
+													Our technology integrates sophisticated geofencing, so we know the minute you arrive to your destination and we automatically trigger a text.
+												</p>
 											</div>
 										</div>
 									</div>
@@ -71,7 +73,9 @@
 											</div>
 											<div class="feature-box-info">
 												<h4 class="shorter">Usability</h4>
-												<p class="tall">We integrate important variables such as going off radius, remaining stagnant for a period of time, and many other methods to help show if something is wrong.</p>
+												<p class="tall">
+													pingWHEN has been designed from the ground up to be super simple to use - you can setup a new journey in just twenty seconds, or just repeat a recent journey.
+												</p>
 											</div>
 										</div>
 									</div>
@@ -83,7 +87,9 @@
 											</div>
 											<div class="feature-box-info">
 												<h4 class="shorter">Artificial Intelligence</h4>
-												<p class="tall">We integrate important variables such as going off radius, remaining stagnant for a period of time, and many other methods to help show if something is wrong.</p>
+												<p class="tall">
+													We integrate important variables such as going off radius, remaining stagnant for a period of time, and many other methods to help show if something is wrong.
+												</p>
 											</div>
 										</div>
 									</div>

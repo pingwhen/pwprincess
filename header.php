@@ -84,7 +84,7 @@
 								<i class="fa fa-angle-down"></i>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a href="/">Features</a></li>
+								<li><a class="page-scroll" href="/#featured">Features</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">

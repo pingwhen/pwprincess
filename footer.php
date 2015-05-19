@@ -4,40 +4,36 @@
             <div class="footer-ribbon">
                 <span>Join the Movement</span>
             </div>
-            <div class="col-md-5">
-                <div class="newsletter">
+            <!--<div class="col-xs-12 col-sm-5">-->
+			<div class="col-xs-12 col-sm-5">
+				<div class="newsletter">
                     <h4>Exclusive Beta Access</h4>
                     <p>Sign up to be an exclusive beta tester and to get notified when we launch. </p>
 
-                    <!-- New Code for list -->	
-                    <form name="sentMessage" id="contactForm" novalidate>
-                        <div class="row">
-                            <div class="col-md-1"></div>
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
-                                     <p class="help-block text-danger"></p>
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-1 text-center">
-                                <div id="success"></div>
-                                     <button type="submit" class="btn btn-xl">Sign Me Up!</button>
-                            </div>
-                        </div>	
-                    </form>
-                </div>
-                <div class="alert alert-success hidden" id="newsletterSuccess">
-                    <strong>Success!</strong> You've been added to our email list.
-                </div>
-            </div>
+					<div class="alert alert-success hidden" id="newsletterSuccess">
+						<strong>Success!</strong> You've been added to our email list.
+					</div>
+
+					<div class="alert alert-danger hidden" id="newsletterError"></div>
+
+					<form id="newsletterForm" action="php/newsletter-subscribe.php" method="POST">
+						<div class="form-group">
+							<input class="form-control" placeholder="Name" name="name" type="text">
+						</div>
+						<div class="form-group">
+							<input class="form-control" placeholder="Email Address" name="email" id="newsletterEmail" type="text">
+						</div>
+						<div class="form-group">
+							<span class="input-group-btn">
+								<button class="btn btn-primary btn-lg" type="submit">Sign Me Up!</button>
+							</span>
+						</div>
+					</form>
+				</div>
+			</div>
 
 
-            <div class="col-md-5">
+            <div class="col-xs-12 col-sm-4">
                 <div class="contact-details">
                     <h4>Contact Us</h4>
                     <p>For questions on the app or press inquiries, please contact us below. </p>
@@ -49,7 +45,7 @@
             </div>
         
         
-            <div class="col-md-2">
+            <div class="col-xs-12 col-sm-3">
                 <h4>Follow Us</h4>
                 <div class="social-icons">
                     <ul class="social-icons">

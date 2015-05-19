@@ -17,7 +17,7 @@
                         </section>
                         <div class="intro-heading">&nbsp;</div>
                         <div class="intro-heading">&nbsp;</div>
-                        <div class="wrapper"><a href="#contact" class="page-scroll btn btn-xl">Sign Up Now</a></div>
+                        <div class="wrapper"><a href="#footer" class="page-scroll btn btn-xl">Sign Up Now</a></div>
                     </div>
                 </div>
             </section>
@@ -122,12 +122,13 @@
 									<div class="owl-carousel" data-plugin-options='{"items": 1}'>
 										<div>
 											<blockquote>
-												<p class="quote"><i class="fa fa-quote-left"></i>   I use pingWHEN to feel a bit safer for that just in case whether it is walking home late at night or going for a solo run.&nbsp;&nbsp;&nbsp;<i class="fa fa-quote-right" font="#CCC"></i></p></h4>  <span>- Jennifer</span>
+												<p class="quote"><i class="fa fa-quote-left"></i>   I use pingWHEN to feel a bit safer for that just in case whether it is walking home late at night or going for a solo run.&nbsp;&nbsp;&nbsp;<i class="fa fa-quote-right" font="#CCC"></i></p></h4>
+												<span>- Jennifer</span>
 											</blockquote>
 										</div>
 										<div>
 											<blockquote>
-												<p class="quote"><i class="fa fa-quote-left"></i>pingWHEN is a more robust 'in case of an emergency' contact before you realize there is an emergency.&nbsp;&nbsp;&nbsp;<i class="fa fa-quote-right" color="#CCCCCC"></i></p>
+												<p class="quote"><i class="fa fa-quote-left"></i>pingWHEN is a more robust 'in case of an emergency' contact for before you realize there is an emergency.&nbsp;&nbsp;&nbsp;<i class="fa fa-quote-right" color="#CCCCCC"></i></p>
 												<span>- Catherine</span>
 											</blockquote>
 										</div>

@@ -1,9 +1,9 @@
 .header-home-page {
-	background-image: url(../img/slides/front.jpg);
+	background-image: url("../img/slides/front.jpg");
 }
 
 .intro-background-style {
-    background-image: url(../img/slides/front.jpg);
+    background-image: url("../img/slides/front.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size:100% auto;

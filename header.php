@@ -53,7 +53,7 @@
 
         <!-- Rotating Text CSS -->
 		<link rel="stylesheet" href="css/text-animation.css">		
-		<link rel="stylesheet" href="css/agency.css">
+
 
 	</head>
 	<body>

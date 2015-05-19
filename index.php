@@ -10,8 +10,8 @@
                         <section class="rw-wrapper">
                             <h2 class="rw-sentence">
                                 <div class="rw-words rw-words-1">
-                                    <span class="intro-heading">if you arrive</span>
-                                    <span class="intro-heading">or if you don't</span>
+                                    <span class="white intro-heading">if you arrive</span>
+                                    <span class="white intro-heading">or if you don't</span>
                                 </div>
                             </h2>
                         </section>
@@ -97,7 +97,7 @@
 					<div class="container">
 						<div class="row">
 						<div class="col-md-7">
-							<span class="video-link" data-video-id="y-gO_6UPwcXe0">
+							<span class="video-link" data-video-id="y-Exu_ZX07ljM">
 							    <img class="img-responsive" width="1000" height="2000" src="img/video-1.png" alt="style switcher" data-appear-animation="fadeInRight">
 							    </img>
 							</span>

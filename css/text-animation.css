@@ -1,13 +1,130 @@
-.header-home-page {
-	background-image: url("../img/slides/front.jpg");
+/* Colors */
+.white {
+    color: #fff;
 }
 
-.intro-background-style {
-    background-image: url("../img/slides/front.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:100% auto;
+.pink {
+    color: #d50165;
 }
+
+.wrapper {
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* Intro section with background image */
+
+.intro-background-style {
+    background-image: url("../img/slides/front.png");    
+    text-align: left;
+    color: #fff;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.intro-text {
+    padding-top: 100px;
+}
+
+.intro-text .intro-lead-in {
+    margin-bottom: 25px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50px;
+    font-style: bold;
+    line-height: 50px;
+}
+
+.intro-text .intro-heading {
+    margin-bottom: 25px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+@media(min-width:768px) {
+    .intro-text {
+        padding-top: 200px;
+        padding-bottom: 150px;
+    }
+
+    .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 75px;
+        font-style: bold;
+        font-weight: 700;
+        line-height: 75px;
+    }
+
+    .intro-text .intro-heading {
+        margin-bottom: 20px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 40px;
+    }
+}
+
+/* Large pink sign-up button */
+
+.btn-xl {
+    padding: 20px 40px;
+    border-color: #d50165;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #d50165;
+}
+
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+    border-color: #fff;
+    color: #fff;
+    background-color: #d50165;
+}
+
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+    background-image: none;
+}
+
+.btn-xl.disabled,
+.btn-xl[disabled],
+fieldset[disabled] .btn-xl,
+.btn-xl.disabled:hover,
+.btn-xl[disabled]:hover,
+fieldset[disabled] .btn-xl:hover,
+.btn-xl.disabled:focus,
+.btn-xl[disabled]:focus,
+fieldset[disabled] .btn-xl:focus,
+.btn-xl.disabled:active,
+.btn-xl[disabled]:active,
+fieldset[disabled] .btn-xl:active,
+.btn-xl.disabled.active,
+.btn-xl[disabled].active,
+fieldset[disabled] .btn-xl.active {
+    border-color: #d50165;
+    background-color: #d50165;
+}
+
+.btn-xl .badge {
+    color: #d50165;
+    background-color: #fff;
+}
+
+/* Animations for scrolling text */
 
 /* TODO - remove CSS references to these from the HTML */
 .rw-sentence{ }

@@ -78,7 +78,7 @@
 				</ul>
 				<nav class="nav-main mega-menu">
 					<ul class="nav nav-pills nav-main" id="mainMenu">
-						<li class="dropdown active">
+						<li class="dropdown"> <!-- Add 'active' to make current pink -->
 							<a class="dropdown-toggle" href="/">
 								The App
 								<i class="fa fa-angle-down"></i>
@@ -104,7 +104,7 @@
 								<i class="fa fa-angle-down"></i>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a href="/">Beta Tester<span class="tip">Exclusive</span></a></li>
+								<li><a class="page-scroll" href="#footer">Beta Tester<span class="tip">Exclusive</span></a></li>
 								<li><a href="contact">Contact Us</a></li>
 							</ul>
 						</li>

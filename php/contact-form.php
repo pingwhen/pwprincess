@@ -14,7 +14,7 @@ header('Content-type: application/json');
 $to = 'info@pingwhenapp.com';
 
 // Step 2 - Enable if the server requires SMTP authentication. (true/false)
-$enablePHPMailer = false;
+$enablePHPMailer = true;
 
 $subject = $_POST['subject'];
 

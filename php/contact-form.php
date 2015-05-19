@@ -11,7 +11,7 @@ header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
 // Step 1 - Enter your email address below.
-$to = 'sam@heather.sh';
+$to = 'info@pingwhenapp.com';
 
 // Step 2 - Enable if the server requires SMTP authentication. (true/false)
 $enablePHPMailer = true;
@@ -71,11 +71,11 @@ if(isset($_POST['email'])) {
 
 		// Step 3 - If you don't receive the email, try to configure the parameters below:
 
-		//$mail->Host = 'mail.yourserver.com';				  // Specify main and backup server
-		//$mail->SMTPAuth = true;                             // Enable SMTP authentication
-		//$mail->Username = 'username';             		  // SMTP username
-		//$mail->Password = 'secret';                         // SMTP password
-		//$mail->SMTPSecure = 'tls';                          // Enable encryption, 'ssl' also accepted
+		$mail->Host = 'smtp.gmail.com';				  // Specify main and backup server
+		$mail->SMTPAuth = true;                             // Enable SMTP authentication
+		$mail->Username = 'system@pingwhenapp.com';             		  // SMTP username
+		$mail->Password = 'IzF;YfC&QMjq3sG';                         // SMTP password
+		$mail->SMTPSecure = 'tls';                          // Enable encryption, 'ssl' also accepted
 
 		$mail->From = $email;
 		$mail->FromName = $_POST['name'];

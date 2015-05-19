@@ -51,8 +51,8 @@
 		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css" media="screen">
 		<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css" media="screen">
 
-        <!-- Rotating Text CSS -->
-		<link rel="stylesheet" href="css/text-animation.css">		
+        <!-- pingWHEN specific custom -->
+		<link rel="stylesheet" href="css/pingwhen-custom.css">		
 
 
 	</head>

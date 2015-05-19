@@ -18,7 +18,7 @@
 
 					<form id="newsletterForm" action="php/newsletter-subscribe.php" method="POST">
 						<div class="form-group">
-							<input class="form-control" placeholder="Name" name="name" type="text">
+							<input class="form-control" placeholder="Name" name="name" id="newsletterName" type="text">
 						</div>
 						<div class="form-group">
 							<input class="form-control" placeholder="Email Address" name="email" id="newsletterEmail" type="text">

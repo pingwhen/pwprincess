@@ -2229,6 +2229,7 @@ window.theme = {};
 
 				var self = this,
 					$email = self.$wrapper.find('#newsletterEmail'),
+					$name = self.$wrapper.find('#newsletterName'),
 					$success = $('#newsletterSuccess'),
 					$error = $('#newsletterError');
 
@@ -2239,7 +2240,8 @@ window.theme = {};
 							type: 'POST',
 							url: self.$wrapper.attr('action'),
 							data: {
-								'email': $email.val()
+								'email': $email.val(),
+								'name': $name.val()
 							},
 							dataType: 'json',
 							success: function(data) {

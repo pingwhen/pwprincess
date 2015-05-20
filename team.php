@@ -8,8 +8,8 @@
 						<div class="row">
 							<div class="col-md-12">
 								<ul class="breadcrumb">
-									<li><a href="#">Home</a></li>
-									<li class="active">Pages</li>
+									<li><a href="/">Home</a></li>
+									<li class="active">The Team</li>
 								</ul>
 							</div>
 						</div>
@@ -63,7 +63,7 @@
 										<img class="img-responsive" alt="" src="img/team/team-sam.png">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Sam Heather</span>
-											<span class="thumb-info-type">CTO</span>
+											<span class="thumb-info-type">CTO, Developer</span>
 										</span>
 									</a>
 									<span class="thumb-info-caption">
@@ -76,13 +76,13 @@
 									</span>
 								</div>
 							</li>
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item ninjas">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
 								<div class="team-item thumbnail">
 									<a class="thumb-info team">
 										<img class="img-responsive" alt="" src="img/team/team-jamaal.png">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Jamaal Malak</span>
-											<span class="thumb-info-type">Ninja Developer</span>
+											<span class="thumb-info-type">Developer</span>
 										</span>
 									</a>
 									<span class="thumb-info-caption">

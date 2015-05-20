@@ -85,11 +85,11 @@
 						</li>
 						<li class="dropdown">
 							<a class="dropdown-toggle" href="#">
-								The Story
+								About Us
 								<i class="fa fa-angle-down"></i>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a href="about">About Us</a></li>
+								<li><a href="about">Our Company</a></li>
 								<li><a href="team">Our Team</a></li>
 								<li><a href="values">Our Values</a></li>
 							</ul>

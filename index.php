@@ -83,7 +83,7 @@
 									<div class="col-md-4">
 										<div class="feature-box secundary">
 											<div class="feature-box-icon">
-												<i class="fa fa-file-code-o"></i>
+												<img src="img/brain_icon.png" style="width:100%;"></img>
 											</div>
 											<div class="feature-box-info">
 												<h4 class="shorter">Artificial Intelligence</h4>

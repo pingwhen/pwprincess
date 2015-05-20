@@ -51,7 +51,7 @@
                     <ul class="social-icons">
                         <li class="facebook"><a href="https://www.facebook.com/pages/Pingwhen/292317570939511#" target="_blank" data-placement="bottom" data-tooltip title="Facebook">Facebook</a></li>
                         <li class="twitter"><a href="http://www.twitter.com/pingwhenapp" target="_blank" data-placement="bottom" data-tooltip title="Twitter">Twitter</a></li>
-                        <li class="linkedin"><a href="https://www.linkedin.com/company/9442822" target="_blank" data-placement="bottom" data-tooltip title="Linkedin">Linkedin</a></li>
+                        <li class="linkedin"><a href="https://www.linkedin.com/company/pingwhen/" target="_blank" data-placement="bottom" data-tooltip title="Linkedin">Linkedin</a></li>
                     </ul>
                 </div>
             </div>

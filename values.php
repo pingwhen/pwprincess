@@ -32,6 +32,7 @@
 				</div>
 
 				<section class="video" data-video-path="video/culture.jpg" data-plugin-video-background data-plugin-options='{"posterType": "jpg", "position": "45% 45%"}'>
+<!-- 				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(video/culture.jpg);"> -->
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-6">

@@ -146,16 +146,3 @@ target="_blank"><img class="statcounter"
 src="http://c.statcounter.com/10250457/0/8b987725/1/"
 alt="shopify visitor statistics"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
-
-<!-- Start of Google Analytics Code -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-64449125-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-<!-- End of Google Analytics Code -->

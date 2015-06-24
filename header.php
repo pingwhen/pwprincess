@@ -8,6 +8,7 @@
 		<meta name="keywords" content="pingWHEN, ping, when, personal, safety, app, automation, AI, artificial intelligence, sms, notifications" />
 		<meta name="description" content="pingWHEN is a personal safety app that sends automated SMS notifications for when you arrive to a destination, or more importantly if you do not.">
 		<meta name="author" content="pingWHEN">
+		<meta name="google-site-verification" content="cZOJGoFE5C00sdIdsaAQRQL30Y1EDX4TzUcQlvTSGZo" />
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">

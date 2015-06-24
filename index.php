@@ -28,9 +28,9 @@
 				<div class="row">
 						<div class="col-md-7">
 							<br>
-							<h2 class="push-top">ping<span class="alternative-font">WHEN</span> is a personal safety app that sends automatic messages for when you arrive to a destination or if you <em>don't</em></h2>
+							<h2 class="push-top">ping<span class="alternative-font">WHEN</span> is a personal safety app that sends automatic messages when you arrive to a destination, or if you <em>don't</em>.</h2>
 							<h6>
-								Perfect for those nights when your friends say "text me so I know you are safe" but you forget. Yet, what they really need to know if you don't arrive. ping<span class="alternative-font">WHEN</span> is for that <em>"just in case"</em> by providing essential information to your loved ones including where you were going, when you were suppose to arrive, and a link of where you were last located. 
+							    pingWHEN is perfect for those nights when your friends say "text me so I know you are safe" but you forget. Yet, what they really need to know is if you don't arrive. ping<span class="alternative-font">WHEN</span> is for that <em>"just in case"</em> situation if you don't arrive at your destination when expected. Quickly provide essential information to recipients of your choice, telling them exactly where you were going, when you were supposed to arrive, and a link showing where you were last located with pingWHEN.
 							</h6>
 						</div>
 						<div class="col-md-4 col-md-offset-1 push-top">

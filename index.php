@@ -104,7 +104,7 @@
 						<div class="row">
 						<div class="col-md-7">
 							<span class="video-link" data-video-id="y-Exu_ZX07ljM">
-							    <img class="img-responsive" width="500" height="800" src="img/video.png" alt="style switcher" data-appear-animation="fadeInRight">
+							    <img class="img-responsive" width="1200" height="800" src="img/video-2.png" alt="style switcher" data-appear-animation="fadeInRight">
 							    </img>
 							</span>
 						</div>

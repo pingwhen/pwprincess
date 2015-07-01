@@ -10,8 +10,8 @@
                         <section class="rw-wrapper">
                             <h2 class="rw-sentence">
                                 <div class="rw-words rw-words-1">
-                                    <span class="white intro-heading">if you arrive</span>
-                                    <span class="white intro-heading">or if you don't</span>
+                                    <span class="white intro-heading">a 'smart' personal safety app</span>
+                                    <span class="white intro-heading">for that 'just in case'</span>
                                 </div>
                             </h2>
                         </section>
@@ -28,9 +28,9 @@
 				<div class="row">
 						<div class="col-md-7">
 							<br>
-							<h2 class="push-top">ping<span class="alternative-font">WHEN</span> is a personal safety app that sends automatic messages when you arrive to a destination, or if you <em>don't</em>.</h2>
+							<h2 class="push-top">ping<span class="alternative-font">WHEN</span> is a personal safety app that sends automatic messages when you arrive to a destination or if you <em>don't</em>.</h2>
 							<h6>
-							    pingWHEN is perfect for those nights when your friends say "text me so I know you are safe" but you forget. Yet, what they really need to know is if you don't arrive. ping<span class="alternative-font">WHEN</span> is for that <em>"just in case"</em> situation if you don't arrive at your destination when expected. Quickly provide essential information to recipients of your choice, telling them exactly where you were going, when you were supposed to arrive, and a link showing where you were last located with pingWHEN.
+							    pingWHEN is perfect for those nights when your friends say <em>"text me so I know you are safe"</em> but you forget. Yet, what your friends really need to know is if you don't arrive to an intended destination. pingWHEN provides an robust 'safety net' that quickly provides essential information to recipients of your choice, telling them exactly where you were going, when you were supposed to arrive, and a link showing where you were last located.
 							</h6>
 						</div>
 						<div class="col-md-4 col-md-offset-1 push-top">
@@ -48,7 +48,7 @@
 								<div class="row center">
 								<h2 class="shorter word-rotator-title">Our <b>Features</b>
 							</h2>
-							<p class="lead">Check out what makes out as a powerful safety beacon</p>
+							<p class="lead">Learn more about our advanced technologies</p>
 						</div>
 
 					</div>
@@ -104,14 +104,14 @@
 						<div class="row">
 						<div class="col-md-7">
 							<span class="video-link" data-video-id="y-Exu_ZX07ljM">
-							    <img class="img-responsive" width="1000" height="2000" src="img/video-1.png" alt="style switcher" data-appear-animation="fadeInRight">
+							    <img class="img-responsive" width="500" height="800" src="img/video.png" alt="style switcher" data-appear-animation="fadeInRight">
 							    </img>
 							</span>
 						</div>
 							<div class="col-md-5">
 							<h2 class="push-top">Curious how it works?  Just Watch!</h2>
 							<h6>
-								ping<span class="alternative-font">WHEN</span> is so silly easy to use - but don't just take our word for it, check it out in action. You can use this app for journeys such as that long walk home late at night, when you jump into a taxi, or a solo run or hike. Have a safety net and a peace of mind for your journeys.
+								ping<span class="alternative-font">WHEN</span> id simple to use - but don't just take our word for it, check it out in action. You can use this app for journeys such as that long walk home late at night, when you jump into a taxi, or a solo run or hike. Have a safety net and a peace of mind for your journeys.
 							</h6>
 							</div>
 						</div>

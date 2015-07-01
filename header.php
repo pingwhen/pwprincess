@@ -97,7 +97,7 @@
 		<div class="container">
 			<div class="logo">
 				<a href="/">
-					<img alt="Porto" width="140" height="70" src="img/logo.png">
+					<img alt="Porto" width="140" height="70" src="img/logo_header.png">
 				</a>
 			</div>
 			<button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">

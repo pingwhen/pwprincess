@@ -111,7 +111,7 @@
 							<div class="col-md-5">
 							<h2 class="push-top">Curious how it works?  Just Watch!</h2>
 							<h6>
-								ping<span class="alternative-font">WHEN</span> id simple to use - but don't just take our word for it, check it out in action. You can use this app for journeys such as that long walk home late at night, when you jump into a taxi, or a solo run or hike. Have a safety net and a peace of mind for your journeys.
+								ping<span class="alternative-font">WHEN</span> is simple to use - but don't just take our word for it, check it out in action. You can use this app for journeys such as that long walk home late at night, when you jump into a taxi, or a solo run or hike. Have a safety net and a peace of mind for your journeys.
 							</h6>
 							</div>
 						</div>

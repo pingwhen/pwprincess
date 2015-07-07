@@ -163,6 +163,9 @@
 					<div class="row center push-top">
 						<div class="owl-carousel" data-plugin-options='{"items": 6, "autoplay": true, "autoplayTimeout": 3000}'>
 							<div>
+								<a href="http://www.techstars.com/introducing-the-10-companies-for-the-london-fall-2015-class/"><img class="img-responsive" src="img/logos/techstars.png" alt=""></a>
+							</div>
+							<div>
 								<a href="http://collectively.org/en/article/ping-when-app-safe-streets"><img class="img-responsive" src="img/logos/logo-1.png" alt=""></a>
 							</div>
 							<div>

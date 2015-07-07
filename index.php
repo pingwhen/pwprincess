@@ -27,7 +27,7 @@
 
 		<div class="modal fade" id="modalNewsletterForm">
   		<div class="modal-dialog">
-				<form id="newsletterForm" action="php/newsletter-subscribe.php" method="POST">
+				<form id="newsletterModalForm" action="php/newsletter-subscribe.php" method="POST">
 	    		<div class="modal-content">
 	      		<div class="modal-header">
 	        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>

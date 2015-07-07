@@ -5,11 +5,12 @@ Version:    3.7.0
 */
 
 function submitForm() {
-  var url = $('#modalNewsletterForm').attr("action");
-  var formData = $('#modalNewsletterForm').serialize();
+  var url = $('#newsletterModalForm').attr("action");
+  var formData = $('#newsletterModalForm').serialize();
 
-  $.post(url, formData)
-    .done(function() {
+  $.post(url, formData, "json")
+    .done(function(d) {
+      console.log( "Data Loaded: " + d );
       $('#modalNewsletterForm').modal('hide');
       $('#successModal').modal('show');
       setTimeout(function() {

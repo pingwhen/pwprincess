@@ -17,7 +17,7 @@
                         </section>
                         <div class="intro-heading">&nbsp;</div>
                         <div class="intro-heading">&nbsp;</div>
-                        <div class="wrapper"><a href="#subsModal" class="btn btn-xl" data-toggle="modal" data-target="#subsModal">Sign Up Now</a></div>
+                        <div class="wrapper"><a href="#modalNewsletterForm" class="btn btn-xl" data-toggle="modal" data-target="#modalNewsletterForm">Sign Up Now</a></div>
                     </div>
                 </div>
             </section>
@@ -25,7 +25,7 @@
 		<!-- Subscribe Modal -->
 
 
-		<div class="modal fade" id="subsModal">
+		<div class="modal fade" id="modalNewsletterForm">
   		<div class="modal-dialog">
 				<form id="newsletterForm" action="php/newsletter-subscribe.php" method="POST">
 	    		<div class="modal-content">
@@ -43,7 +43,7 @@
 	      		</div>
 	      		<div class="modal-footer">
 	        		<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-	        		<button type="submit" class="btn btn-primary">Sign Me Up!</button>
+              <button type="button" class="btn btn-primary" onclick="submitForm();">Sign Me Up!</button>
 	      		</div>
 	    		</div><!-- /.modal-content -->
 				</form>

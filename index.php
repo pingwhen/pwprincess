@@ -51,6 +51,24 @@
 		</div><!-- /.modal -->
 
 
+		<div class="modal fade" id="successModal">
+			<div class="modal-dialog">
+					<div class="modal-content">
+
+						<div class="modal-body">
+								<div class="form-group">
+									<img alt="Porto" width="140" height="70" src="img/logo.png">
+								</div>
+								<div class="form-group text-center">
+									<span class="pink">Thank you for subscribing ! Wel'll ping<span class="alternative-font">WHEN</span> we are live, deal ? </span>
+								</div>
+						</div>
+					</div><!-- /.modal-content -->
+				</form>
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+
+
 		<!-- Main Body -->
 				<div class="container">
 				<div class="row">

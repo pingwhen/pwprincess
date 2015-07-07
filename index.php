@@ -2,7 +2,7 @@
 	        <?php include("header.php"); ?>
 
 			<div role="main" class="main">
-				
+
 				<section class="intro-background-style">
                 <div class="container">
                     <div class="intro-text">
@@ -17,10 +17,38 @@
                         </section>
                         <div class="intro-heading">&nbsp;</div>
                         <div class="intro-heading">&nbsp;</div>
-                        <div class="wrapper"><a href="#footer" class="page-scroll btn btn-xl">Sign Up Now</a></div>
+                        <div class="wrapper"><a href="#subsModal" class="btn btn-xl" data-toggle="modal" data-target="#subsModal">Sign Up Now</a></div>
                     </div>
                 </div>
             </section>
+
+		<!-- Subscribe Modal -->
+
+
+		<div class="modal fade" id="subsModal">
+  		<div class="modal-dialog">
+				<form id="newsletterForm" action="php/newsletter-subscribe.php" method="POST">
+	    		<div class="modal-content">
+	      		<div class="modal-header">
+	        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        		<h4 class="modal-title centered">Subscribe</h4>
+	      		</div>
+	      		<div class="modal-body">
+								<div class="form-group">
+									<input class="form-control" placeholder="Name" name="name" id="newsletterName" type="text">
+								</div>
+								<div class="form-group">
+									<input class="form-control" placeholder="Email Address" name="email" id="newsletterEmail" type="text">
+								</div>
+	      		</div>
+	      		<div class="modal-footer">
+	        		<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	        		<button type="submit" class="btn btn-primary">Sign Me Up!</button>
+	      		</div>
+	    		</div><!-- /.modal-content -->
+				</form>
+  		</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
 
 
 		<!-- Main Body -->
@@ -38,7 +66,7 @@
 						</div>
 					</div>
 				</div>
-	
+
 
 				<section class="featured" id="featured">
 					<div class="container">
@@ -147,7 +175,7 @@
 									</div>
 								</div>
 							</div>
-						</div> 
+						</div>
 					</div>
 				</section>
 
@@ -197,7 +225,7 @@
 
 		<!-- Footer -->
 		<?php include("footer.php"); ?>
-		
+
 		<!-- Specific Page Vendor and Views -->
 		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>

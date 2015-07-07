@@ -43,8 +43,8 @@
                     </ul>
                 </div>
             </div>
-        
-        
+
+
             <div class="col-xs-12 col-sm-3">
                 <h4>Follow Us</h4>
                 <div class="social-icons">
@@ -55,8 +55,8 @@
                     </ul>
                 </div>
             </div>
-        
-        
+
+
         </div>
     </div>
 
@@ -83,9 +83,9 @@
             </div>
         </div>
     </div>
-        
+
 </footer>
-				
+
 <!-- Vendor -->
 <script src="vendor/jquery/jquery.js"></script>
 <script src="vendor/jquery.appear/jquery.appear.js"></script>
@@ -131,9 +131,9 @@
 
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=10250457; 
-var sc_invisible=1; 
-var sc_security="8b987725"; 
+var sc_project=10250457;
+var sc_invisible=1;
+var sc_security="8b987725";
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
 document.write("<sc"+"ript type='text/javascript' src='" +

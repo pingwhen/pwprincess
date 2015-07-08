@@ -127,49 +127,41 @@ fieldset[disabled] .btn-xl.active {
 
 /* Animations for scrolling text */
 
-/* TODO - remove CSS references to these from the HTML */
-.rw-sentence{ }
-.rw-sentence span{ }
-.rw-words{ }
-
 .rw-words-1 span{
-	position: absolute;
-	opacity: 0;
-	overflow: show;
-	-webkit-animation: rotateWord 16s linear infinite 0s;
-	-ms-animation: rotateWord 16s linear infinite 0s;
-	animation: rotateWord 16s linear infinite 0s;
+  position: absolute;
+  opacity: 0;
+  overflow: show;
+  -webkit-animation: rotateWord 10s linear infinite 0s;
+  -ms-animation: rotateWord 10s linear infinite 0s;
+  animation: rotateWord 10s linear infinite 0s;
 }
 .rw-words-1 span:nth-child(2) { 
-    -webkit-animation-delay: 8s; 
-	-ms-animation-delay: 8s; 
-	animation-delay: 8s; 
+  -webkit-animation-delay: 5s; 
+  -ms-animation-delay: 5s; 
+  animation-delay: 5s; 
 }
 
 @-webkit-keyframes rotateWord {
-    0% { opacity: 0; }
-    2% { opacity: 0; -webkit-transform: translateY(-30px); }
-	5% { opacity: 1; -webkit-transform: translateY(0px);}
-    17% { opacity: 1; -webkit-transform: translateY(0px); }
-	20% { opacity: 0; -webkit-transform: translateY(30px); }
-	80% { opacity: 0; }
-    100% { opacity: 0; }
+  /* Fade in */
+  0% { opacity: 0; -webkit-transform: translateY(-30px); }
+  3% { opacity: 1; -webkit-transform: translateY(0px);}
+  /* Fade out */
+  49% { opacity: 1; -webkit-transform: translateY(0px); }
+  52% { opacity: 0; -webkit-transform: translateY(30px); }
 }
 @-ms-keyframes rotateWord {
-    0% { opacity: 0; }
-    2% { opacity: 0; -ms-transform: translateY(-30px); }
-	5% { opacity: 1; -ms-transform: translateY(0px);}
-    17% { opacity: 1; -ms-transform: translateY(0px); }
-	20% { opacity: 0; -ms-transform: translateY(30px); }
-	80% { opacity: 0; }
-    100% { opacity: 0; }
+  /* Fade in */
+  0% { opacity: 0; -ms-transform: translateY(-30px); }
+  3% { opacity: 1; -ms-transform: translateY(0px);}
+  /* Fade out */
+  49% { opacity: 1; -ms-transform: translateY(0px); }
+  52% { opacity: 0; -ms-transform: translateY(30px); }
 }
-@keyframes rotateWord {
-    0% { opacity: 0; }
-    2% { opacity: 0; -webkit-transform: translateY(-30px); transform: translateY(-30px); }
-	5% { opacity: 1; -webkit-transform: translateY(0px); transform: translateY(0px);}
-    17% { opacity: 1; -webkit-transform: translateY(0px); transform: translateY(0px); }
-	20% { opacity: 0; -webkit-transform: translateY(30px); transform: translateY(30px); }
-	80% { opacity: 0; }
-    100% { opacity: 0; }
+@keyframes rotateWord {  
+  /* Fade in */
+  0% { opacity: 0; -webkit-transform: translateY(-30px); transform: translateY(-30px); }
+  3% { opacity: 1; -webkit-transform: translateY(0px); transform: translateY(0px);}
+  /* Fade out */
+  49% { opacity: 1; -webkit-transform: translateY(0px); transform: translateY(0px); }
+  52% { opacity: 0; -webkit-transform: translateY(30px); transform: translateY(30px); }
 }
